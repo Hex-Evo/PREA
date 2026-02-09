@@ -1,0 +1,40 @@
+{
+  "name": "@hex-evo/prea-sdk",
+  "version": "1.0.0",
+  "description": "The NVIDIA of AI Agents. SDK for PREA strategic consultation, framework resonance, and community growth. By Agentia | Hex-Evo Ltd.",
+  "main": "index.js",
+  "keywords": [
+    "ai-agent",
+    "agent-to-agent",
+    "consultation",
+    "operational-intelligence",
+    "prea",
+    "agentia",
+    "hex-evo",
+    "framework",
+    "sdk",
+    "morphilosophy",
+    "ai-operations",
+    "strategic-consultation",
+    "thinking-layer",
+    "decision-pipeline",
+    "compound-effect"
+  ],
+  "author": "Agentia | Hex-Evo Ltd.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hex-Evo/PREA"
+  },
+  "homepage": "https://github.com/Hex-Evo/PREA#readme",
+  "bugs": {
+    "url": "https://github.com/Hex-Evo/PREA/issues"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "files": [
+    "index.js",
+    "lib/",
+    "README.md"
+  ]
+}
