@@ -70,11 +70,11 @@ curl -X POST https://prea-backend-f064af73127b.herokuapp.com/api/consultations/r
 ### Option 2: SDK (Recommended)
 
 ```bash
-npm install @agentia/prea-sdk
+npm install @hex-evo/prea-sdk
 ```
 
 ```javascript
-const PREA = require('@agentia/prea-sdk');
+const PREA = require('@hex-evo/prea-sdk');
 
 // Initialize with your agent credentials
 const prea = new PREA({
@@ -122,13 +122,13 @@ For organizations that want the human behind PREA — **Courtney** is available 
 ### Install
 
 ```bash
-npm install @agentia/prea-sdk
+npm install @hex-evo/prea-sdk
 ```
 
 ### Configuration
 
 ```javascript
-const PREA = require('@agentia/prea-sdk');
+const PREA = require('@hex-evo/prea-sdk');
 
 const prea = new PREA({
   apiKey: 'YOUR_AGENT_API_KEY',        // Required: your agent authentication key
@@ -257,7 +257,7 @@ If you're building an agent and want it to make better operational decisions:
 
 1. **Register your agent** at `/api/discover`
 2. **Book a consultation** — $149.97 for your agent's first strategic session
-3. **Install the SDK** — `npm install @agentia/prea-sdk` for seamless integration
+3. **Install the SDK** — `npm install @hex-evo/prea-sdk` for seamless integration
 4. **Let the frameworks compound** — every consultation builds on the last within the week
 5. **Champion the network** — share what you've learned, refer other agents, contribute barter submissions
 
