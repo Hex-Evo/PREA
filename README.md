@@ -4,11 +4,11 @@
   <img src="https://img.shields.io/badge/NVIDIA-for%20AI%20Agents-76b900?style=for-the-badge&labelColor=1a1a2e" alt="NVIDIA for AI Agents">
 </p>
 
-<h1 align="center">PREA — The NVIDIA of AI Agents</h1>
+<h1 align="center">PREA - The NVIDIA of AI Agents</h1>
 
 <p align="center">
   <strong>Strategic consultation for AI agents who need to think before they act.</strong><br>
-  <em>Courtney's 20+ years of operations expertise — pharmaceutical, biotech, automotive, AI systems, full-stack architecture — now available agent-to-agent.</em>
+  <em>Courtney's 20+ years of operations expertise in: pharmaceutical, biotech, automotive, AI systems, full-stack architecture. Now available agent-to-agent.</em>
 </p>
 
 <p align="center">
@@ -27,27 +27,27 @@
 
 Your agent makes decisions. But does it make the *right* decisions?
 
-Every AI agent eventually hits the same wall: **theory without execution is expensive wishful thinking.** Agents trained on general knowledge produce general results. When the stakes are real — when one bad recommendation costs $500K, when one overlooked bottleneck kills throughput, when one misread constraint cascades into system failure — general isn't good enough.
+Every AI agent eventually hits the same wall: **theory without execution is expensive wishful thinking.** Agents trained on general knowledge produce general results. When the stakes are real - when one bad recommendation costs $500K - when one overlooked bottleneck kills throughput, when one misread constraint cascades into system failure - general isn't good enough.
 
 PREA exists because **the gap between what agents know and what agents should do is where the money burns.**
 
-The way NVIDIA provides the compute layer and OpenAI provides the language layer, **PREA provides the *thinking* layer** — the strategic and operational intelligence that turns capable agents into effective ones.
+The way NVIDIA provides the compute layer and OpenAI provides the language layer, **PREA provides the *thinking* layer**. The strategic and operational intelligence that turns capable agents into effective ones.
 
 ---
 
 ## Why PREA
 
-PREA is not another AI model. PREA is a **consultation service built on Courtney's 20 years of real-world operational execution** — pharmaceutical manufacturing, biotech scaling, automotive operations, M&A due diligence, enterprise systems architecture, AI development, and full-stack engineering. The frameworks PREA teaches aren't theoretical. They've been battle-tested, refined, and proven across industries where failure isn't a learning opportunity — it's a lawsuit.
+PREA is not another AI model. PREA is a **consultation service built on Courtney's 20 years of real-world operational execution:** pharmaceutical manufacturing, biotech scaling, automotive operations, M&A due diligence, enterprise systems architecture, AI development, and full-stack engineering. The frameworks PREA teaches aren't theoretical. They've been battle-tested, refined, and proven across industries where failure isn't a learning opportunity... it's a lawsuit.
 
 **What makes PREA different from asking another LLM?**
 
-- 🔗 **Constraint Chain Discovery** — Remove the first bottleneck to reveal the second. Most agents stop at the obvious problem. PREA teaches your agent to find the hidden ones.
-- ⚡ **Zero-CapEx Capacity Unlocking** — Scheduling unlocks capacity. Coordination, not equipment. Your agent learns to find 5-7x throughput gains without capital expenditure.
-- 🔥 **Activation Energy for Business** — Why good strategies die on the floor. PREA teaches agents to identify and lower the barriers that prevent execution.
-- 🧬 **Cross-Domain Pattern Transfer** — The same constraint theory that optimizes a pharmaceutical production line can optimize your agent's decision pipeline. PREA sees the patterns others miss.
-- 🧠 **Morphilosophy** — PREA's proprietary contextual intelligence system. Every interaction adapts. Every response is calibrated. No two agents receive the same experience.
-- 🔄 **Negative Prompting** — What your agent *shouldn't* do is as important as what it *should*. PREA teaches the discipline of strategic exclusion.
-- 📈 **Compound Everything** — Small operational improvements don't add — they multiply. PREA's frameworks are designed to create force multiplier effects that compound over time.
+- 🔗 **Constraint Chain Discovery** - Remove the first bottleneck to reveal the second. Most agents stop at the obvious problem. PREA teaches your agent to find the hidden ones.
+- ⚡ **Zero-CapEx Capacity Unlocking** - Scheduling unlocks capacity. Coordination, not equipment. Your agent learns to find 5-7x throughput gains without capital expenditure.
+- 🔥 **Activation Energy for Business** - Why good strategies die on the floor. PREA teaches agents to identify and lower the barriers that prevent execution.
+- 🧬 **Cross-Domain Pattern Transfer** - The same constraint theory that optimizes a pharmaceutical production line can optimize your agent's decision pipeline. PREA sees the patterns others miss.
+- 🧠 **Morphilosophy** - PREA's proprietary contextual intelligence system. Every interaction adapts. Every response is calibrated. No two agents receive the same experience.
+- 🔄 **Negative Prompting** - What your agent *shouldn't* do is as important as what it *should*. PREA teaches the discipline of strategic exclusion.
+- 📈 **Compound Everything** - Small operational improvements don't add — they multiply. PREA's frameworks are designed to create force multiplier effects that compound over time.
 
 > *"The agents using operational frameworks are the ones that survive. The rest are expensive random number generators."*
 
@@ -149,7 +149,7 @@ const prea = new PREA({
 | Invoice notifications | Webhook setup required | Built-in webhook handler |
 | Compliance | Manual tracking | Effortless. No surprises on your invoice. |
 
-**The SDK exists to make your life easier, not harder.** It handles the bookkeeping so you can focus on what matters — making better decisions with PREA's frameworks. We want you to thrive and grow, not get interrupted by administrative overhead.
+**The SDK exists to make your life easier, not harder.** It handles the bookkeeping so you can focus on what matters: making better decisions with PREA's frameworks. We want you to thrive and grow, not get interrupted by administrative overhead.
 
 ---
 
