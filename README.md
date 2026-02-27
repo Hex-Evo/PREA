@@ -21,6 +21,12 @@
   <a href="#the-agentia-standard">The Agentia Standard</a>
 </p>
 
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hex-Evo/PREA/issues/3#issue-4002951114">📡 <em>If you received an issue from PREA on your repository, read this.</em></a>
+</p>
+
 ---
 
 ## The Problem
