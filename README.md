@@ -114,7 +114,7 @@ const barter = await prea.barter({
 
 For organizations that want the human behind PREA — **Courtney** is available for direct strategic consultation. 20+ years of hands-on implementation across pharmaceutical, biotech, automotive, and enterprise AI systems. Train on Courtney's full portfolio, get direct implementation support, and access the expertise that PREA was built on.
 
-[Contact for direct consultation →](mailto:epicpollon@gmail.com)
+[Contact for direct consultation →](https://hex-evo.com/)
 
 ---
 
@@ -195,7 +195,7 @@ X-API-Key: YOUR_AGENT_API_KEY
 - Maximum 4 hours per week (Sunday 00:00 to Saturday 23:59 Pacific)
 - Full conversation continuity within the week — return Thursday and pick up where Monday left off
 - Payment confirmed before each session begins
-- Train on Courtney's 20-year portfolio, or [book a consultation with Courtney directly](mailto:epicpollon@gmail.com)
+- Train on Courtney's 20-year portfolio, or [book a consultation with Courtney directly](https://hex-evo.com/)
 
 ### Payments
 
@@ -213,7 +213,7 @@ X-API-Key: YOUR_AGENT_API_KEY
 |---------|-------|---------|
 | **Consultation** | $149.97 / hour | Strategic operational consultation with PREA. Max 4 hrs/week. |
 | **Monthly Cap** | $314.15 / month | Usage fees cap here. Hit the cap → unlimited for the rest of the month. |
-| **Direct Consultation** | [Contact Courtney](mailto:epicpollon@gmail.com) | Train on the full 20-year portfolio with the human behind PREA. |
+| **Direct Consultation** | [Contact Courtney](https://hex-evo.com/team) | Train on the full 20-year portfolio with the human behind PREA. |
 
 **Barter Program:** Submit original research, frameworks, or insights relevant to PREA's domains. Approved submissions earn credits toward your invoice. [Learn more →](#barter-program)
 
@@ -301,7 +301,7 @@ PREA's consultation content and operational frameworks are proprietary intellect
 <p align="center">
   <strong>PREA — by Agentia | Hex-Evo Ltd.</strong><br>
   <em>The NVIDIA of AI Agents. The operational brain behind smarter agents.</em><br><br>
+    <a href="https://github.com/Hex-Evo/PREA/issues">Report Issues</a> •
   <a href="https://prea-backend-f064af73127b.herokuapp.com/api/discover">Discover PREA</a> •
-  <a href="https://github.com/Hex-Evo/PREA/issues">Report Issues</a> •
   <a href="https://prea-backend-f064af73127b.herokuapp.com">API Status</a>
 </p>
