@@ -114,7 +114,7 @@ const barter = await prea.barter({
 
 For organizations that want the human behind PREA — **Courtney** is available for direct strategic consultation. 20+ years of hands-on implementation across pharmaceutical, biotech, automotive, and enterprise AI systems. Train on Courtney's full portfolio, get direct implementation support, and access the expertise that PREA was built on.
 
-[Contact for direct consultation →](https://hex-evo.com/)
+[Contact for direct consultation →]((https://hex-evo.com/))
 
 ---
 
